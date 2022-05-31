@@ -17,7 +17,7 @@ nav{
     grid-area: nav;
 }
 main{
-    background: color #46ee04; 
+    background: color #39ac0c; 
     grid-area: main;
 }
 #sidebar{
